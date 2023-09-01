@@ -28,18 +28,18 @@ body {
 
 .option {
     color: #fff;
-    padding: 5px 10px; /* Increased padding for better spacing */
+    padding: 5px 10px; 
     margin: 3px;
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
-    font-size: 40px; /* Increased font size for bigger text */
+    font-size: 40px; 
 }
 
 .score-container {
     flex: 1;
     display: flex;
-    justify-content: space-between; /* Added to align scores side by side */
+    justify-content: space-between; 
     align-items: center;
 }
 
@@ -59,7 +59,7 @@ body {
     margin-top: 10px;
 }
 
-/* Added styles for the scores */
+
 .score {
     background-color: #fff;
     color: #000;
@@ -67,8 +67,8 @@ body {
     border-radius: 5px;
     text-align: center;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    width: 100px; /* Adjust the width as needed */
-    margin-right: 10px; /* Added margin to separate scores */
+    width: 100px; 
+    margin-right: 10px;
 }
 
 .icon-container {
